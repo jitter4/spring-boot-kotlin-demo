@@ -1,1 +1,1 @@
-rootProject.name = "boardgame"
+rootProject.name = "spring-boot-kotlin-demo"
