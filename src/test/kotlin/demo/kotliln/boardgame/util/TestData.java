@@ -1,8 +1,8 @@
 package demo.kotliln.boardgame.util;
 
 import demo.kotliln.boardgame.api.models.Category;
-import demo.kotliln.boardgame.service.entities.BoardGameEntity;
-import demo.kotliln.boardgame.service.rating.RateEntity;
+import demo.kotliln.boardgame.service.boardgame.entities.BoardGameEntity;
+import demo.kotliln.boardgame.service.rating.entities.RateEntity;
 
 public class TestData {
 
